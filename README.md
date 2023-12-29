@@ -1,1 +1,1 @@
-PenguinMod-Gui has been moved to the "penguinmod.github.io" repo(this just redirects to new one)
+Not the current GUI, it has been moved to [penguinmod/penguinmod.github.io](https://github.com/penguinmod/penguinmod.github.io)
